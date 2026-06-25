@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **aayushsharmahrx@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** python project
-- 🌱 **I’m currently learning:** Python
-- 👯 **I’m looking to collaborate on:** Any python Project
+- 🔭 **I’m currently working on:** Various Project
+- 🌱 **I’m currently learning:** Java DSA
+- 👯 **I’m looking to collaborate on:** Internship Projects
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** aayushsharmahrx@gmail.com
